@@ -34,6 +34,8 @@ This folder contains customized content for an Academic Pages website.
 - `_pages/cv.md`: CV content
 - `_publications/*.md`: one file per publication
 - `_projects/*.md`: one file per project
+- `_data/news.yml`: news items shown below the sidebar profile
+- `_includes/author-profile.html`: sidebar profile and news layout
 - `_config.yml`: name, email, sidebar profile, and site URL
 
 The saved Wix files are kept only as reference and are excluded from the Jekyll build.
