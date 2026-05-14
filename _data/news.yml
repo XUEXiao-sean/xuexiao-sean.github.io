@@ -1,19 +1,19 @@
-- date: "Sep 2025"
-  text: "Started writing about Designability of LLMs and design-in-use."
-  url: "https://16096389d.wixsite.com/website/post/designability-of-llms-when-everyday-use-becomes-design"
+- date: "2026"
+  text: "Attended CHI 2026 and joined the HCI and AI Supply Chain workshop."
+  url: "/publications/"
 
-- date: "Jul 2025"
-  text: "New work-in-progress essays on participatory design, autonomous vehicles, and smart ecosystems."
-  url: "https://16096389d.wixsite.com/website"
-
-- date: "Jul 2025"
-  text: "Shared project notes on designing with older adults against deepfake scams."
-  url: "https://16096389d.wixsite.com/website/post/hear-us-then-protect-us-designing-with-older-adults-against-deepfake-scams"
+- date: "2026"
+  text: "Co-authored CHI EA 2026 poster on design tensions in smart home ecosystem UX, grounded in in-the-wild evidence."
+  url: "/publication/2026-04-01-designing-with-tensions"
 
 - date: "2025"
-  text: "CHI 2025 and DIS 2025 publications added."
+  text: "Paper work accepted to CHI 2025 and CHI EA 2025, covering deepfake scams with older adults and human-vehicle-home ecosystems."
+  url: "/publications/"
+
+- date: "2025"
+  text: "Attended CHI 2025 and presented recent work with collaborators."
   url: "/publications/"
 
 - date: "2024"
-  text: "CHI 2024 paper on empowerment and control in home automation published."
+  text: "Attended CHI 2024; feel free to say hi if you would like to chat about co-design, home automation, or HCI research."
   url: "/publication/2024-04-23-home-automation-cohabitants"
