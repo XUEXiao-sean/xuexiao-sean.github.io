@@ -1,13 +1,13 @@
 - date: "2026"
-  text: "Attended CHI 2026 and joined the AI supply chain and HCI meet-up."
+  text: "Attended CHI 2026 and joined the AI supply chain and participatory AI meet-up."
   url: "/publications/"
 
 - date: "2026"
-  text: "Co-authored CHI EA 2026 poster on design tensions in smart home ecosystem UX."
+  text: "Co-authored poster on design tensions in smart home ecosystem UX accepted to CHI EA 2026."
   url: "/publication/2026-04-01-designing-with-tensions"
 
 - date: "2025"
-  text: "Attended CHI 2025 and presented recent work with collaborators."
+  text: "Attended CHI 2025 and presented recent work with collaborators; feel free to say hi."
   url: "/publications/"
 
 - date: "2025"
@@ -15,5 +15,5 @@
   url: "/publications/"
 
 - date: "2024"
-  text: "Attended CHI 2024; feel free to say hi if you would like to chat about co-design, home automation, or HCI research."
+  text: "Attended CHI 2024 and presented my paper on empowerment and control in home automation."
   url: "/publication/2024-04-23-home-automation-cohabitants"
