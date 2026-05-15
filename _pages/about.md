@@ -10,10 +10,10 @@ redirect_from:
   <p class="eyebrow">Design Research / HCI / Research through Design</p>
   <h1>I study how people imagine, negotiate, and reshape emerging technologies in everyday life.</h1>
   <p class="hero-lede">
-    I am an emerging design researcher working across <strong>Human-Computer Interaction</strong>,
-    <strong>participatory design</strong>, and <strong>Research through Design</strong>. My work asks how
-    publics, non-expert users, and everyday households can become more than recipients of technical
-    systems: they can be interpreters, critics, and co-designers of futures that affect them.
+    I am Xiao XUE, a design researcher working across <strong>Human-Computer Interaction</strong>,
+    <strong>participatory AI</strong>, and <strong>Research through Design</strong>. My background connects
+    undergraduate training in multimedia technologies with master's-level work in design informatics,
+    which has shaped how I move between technical systems, design practice, and qualitative inquiry.
   </p>
   <div class="hero-actions" aria-label="Primary links">
     <a href="/publications/">Publications</a>
@@ -40,7 +40,15 @@ redirect_from:
   </div>
 </section>
 
-## Research Position
+## About Me
+
+I am currently a research intern at The Future Laboratory, Tsinghua University. My work uses
+participatory and designerly methods to ask how everyday people, especially non-expert publics, can
+question, adapt, and co-shape emerging technologies before they become settled parts of social life.
+
+I am applying for PhD positions in <strong>Human-Computer Interaction</strong>, <strong>responsible
+AI</strong>, and <strong>design research</strong>, where I hope to further explore how design can support
+more situated, public-facing, and critically reflective approaches to emerging AI systems.
 
 My research is grounded in the belief that design can make technological futures discussable before
 they become settled infrastructure. I work with emerging systems such as <strong>large language
@@ -53,26 +61,6 @@ invite people into design conversations. These methods help surface tensions tha
 in technology-centered development: who gets to configure a system, whose interpretation counts as
 evidence, what kinds of everyday expertise are overlooked, and how design can resist purely
 solutionist narratives.
-
-## Research Themes
-
-<div class="theme-grid">
-  <article>
-    <span>01</span>
-    <h3>Participatory AI and Designability</h3>
-    <p>How people tailor, appropriate, and make sense of AI systems such as LLMs through use, and how these practices can be understood as everyday design.</p>
-  </article>
-  <article>
-    <span>02</span>
-    <h3>Connected Homes and Vehicles</h3>
-    <p>How domestic, mobility, and smart ecosystems shape everyday agency, privacy, coordination, and control across multiple stakeholders.</p>
-  </article>
-  <article>
-    <span>03</span>
-    <h3>Co-Design with Publics</h3>
-    <p>How non-expert participants can become interpreters, evaluators, and critics inside design research, especially when technologies carry social risk.</p>
-  </article>
-</div>
 
 ## Method Signature
 
@@ -115,25 +103,15 @@ only as outputs, but as ways of thinking with people about sociotechnical change
   </a>
 </div>
 
-<div class="current-questions">
-  <h2>Questions I am currently carrying</h2>
-  <ul>
-    <li>How can design research make invisible power relations in intelligent systems easier to notice and contest?</li>
-    <li>What happens when everyday users become designers-in-use of AI systems?</li>
-    <li>How can RtD produce knowledge that speaks both to HCI scholarship and to public-facing technology practice?</li>
-  </ul>
-</div>
+## Contact
 
-I am actively <strong>seeking PhD opportunities</strong> where I can further develop these interests
-with collaborators in HCI, design research, participatory AI, and sociotechnical systems. Please feel
-free to <a href="mailto:sean.xue@connect.polyu.hk">get in touch</a> if my work resonates with your group,
-project, or supervision interests.
+Please feel free to <a href="mailto:sean.xue@connect.polyu.hk">get in touch</a>. I am usually based at
+Tsinghua University and welcome in-person conversations.
 
 <style>
   .page__content .research-hero h1,
   .page__content .research-hero p,
   .page__content .research-snapshot p,
-  .page__content .theme-grid p,
   .page__content .feature-grid p {
     margin-bottom: 0;
   }
@@ -222,9 +200,7 @@ project, or supervision interests.
   }
 
   .research-snapshot div,
-  .theme-grid article,
-  .feature-card,
-  .current-questions {
+  .feature-card {
     border: 1px solid #e0e3df;
     border-radius: 8px;
     background: #ffffff;
@@ -235,8 +211,7 @@ project, or supervision interests.
   }
 
   .research-snapshot span,
-  .feature-card span,
-  .theme-grid span {
+  .feature-card span {
     display: block;
     margin-bottom: 0.28rem;
     color: #7a5c3b;
@@ -256,30 +231,6 @@ project, or supervision interests.
     color: #5b6462;
     font-size: 0.82rem;
     line-height: 1.4;
-  }
-
-  .theme-grid {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0.9rem;
-    margin: 1.1rem 0 1.5rem;
-  }
-
-  .theme-grid article {
-    padding: 1rem;
-  }
-
-  .theme-grid h3 {
-    margin: 0 0 0.45rem;
-    color: #243231;
-    font-size: 1rem;
-    line-height: 1.25;
-  }
-
-  .theme-grid p {
-    color: #4d5755;
-    font-size: 0.9rem;
-    line-height: 1.5;
   }
 
   .method-strip {
@@ -339,24 +290,8 @@ project, or supervision interests.
     line-height: 1.48;
   }
 
-  .current-questions {
-    margin: 1.4rem 0;
-    padding: 1rem 1.1rem;
-    background: #f7f8f5;
-  }
-
-  .current-questions h2 {
-    margin-top: 0;
-    font-size: 1.25rem;
-  }
-
-  .current-questions ul {
-    margin-bottom: 0;
-  }
-
   @media (max-width: 900px) {
-    .research-snapshot,
-    .theme-grid {
+    .research-snapshot {
       grid-template-columns: 1fr;
     }
 
